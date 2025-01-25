@@ -1,2 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
 @import "tailwindcss";
+
+@theme {
+    --font-poppins: Poppins, sans-serif;
+    --color-vgv-bgprimary: #4B4B4C;
+    --color-vgv-bgsecondary: #FDBF01;
+    --color-vgv-fprimary: #FDBF01;
+}
